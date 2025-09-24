@@ -1,4 +1,4 @@
-# 🎓 **eduMe – AI-Powered Learning Platform**
+# 🎓 **EduMe – AI-Powered Learning Platform**
 
 **License:** MIT
 **Tech Stack:** Python 3.8 | Next.js | FastAPI
@@ -7,7 +7,7 @@
 
 ## 🎓 **Overview**
 
-**eduMe** is a comprehensive AI-powered learning platform that combines cutting-edge AI technology with educational tools.
+**EduMe** is a comprehensive AI-powered learning platform that combines cutting-edge AI technology with educational tools.
 The platform features a **SadTalker API** for creating talking avatars from images and audio, along with a modern web interface for various learning activities.
 
 ---
